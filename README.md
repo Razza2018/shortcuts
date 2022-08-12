@@ -1,4 +1,3 @@
-
 # Shortcuts
 
 ### General
@@ -59,4 +58,3 @@
 | CMD + Shift + D | Duplicate line or selection |
 | CTRL + Left Arrow | Moves cursor a word to the left | Holding shift selects until word on the left. |
 | CTRL + Right Arrow | Moves cursor a word to the left | Holding shift selects until word on the right. |
-# Shortcuts
