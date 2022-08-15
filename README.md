@@ -1,8 +1,8 @@
 # Shortcuts
 
 ### General
-| Command | Action | Notes |
-| -- | -- | -- |
+| Command | Action | Notes | Tested
+| -- | -- | -- | -- |
 | CMD + A | Select all |
 | CMD + S | Save |
 | CMD + Shift + S | Save as |
@@ -23,8 +23,8 @@
 | CMD + Right Arrow | Move to end of line | Holding shift will select until end of line. |
 
 ### Chrome
-| Command | Action | Notes |
-| -- | -- | -- |
+| Command | Action | Notes | Tested |
+| -- | -- | -- | -- |
 | CMD + R | Refresh page |
 | CMD + Shift + R | Refresh page and clear cache |
 | F12 | Open / close dev tools |
@@ -36,8 +36,8 @@
 | CMD + Shift + J | Open downloads |
 
 ### Firefox
-| Command | Action | Notes |
-| -- | -- | -- |
+| Command | Action | Notes | Tested |
+| -- | -- | -- | -- |
 | CMD + R | Refresh page |
 | CMD + Shift + R | Refresh page and clear cache |
 | F12 | Open / close dev tools |
@@ -50,8 +50,8 @@
 | CMD + Shift + Y | Open downloads |
 
 ### Code Editors
-| Command | Action | Notes |
-| -- | -- | -- |
+| Command | Action | Notes | Tested |
+| -- | -- | -- | -- |
 | CMD + D | Select next matching selection |
 | CMD + K CMD + D | Ignore last matched selection and select next matching selection |
 | CMD + U | Undo last matching selection |
