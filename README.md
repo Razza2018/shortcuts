@@ -9,6 +9,7 @@ You can switch the behaviour of these keys in macOS, go to System Preferences ->
 ### General
 | Command | Action | Notes | Tested
 | -- | -- | -- | -- |
+| CTRL + CMD + Space | Open Emojis |
 | CMD + A | Select all | | Yes |
 | CMD + S | Save | | Yes |
 | CMD + Shift + S | Save as |
