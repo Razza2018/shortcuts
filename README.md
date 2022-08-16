@@ -9,7 +9,6 @@ You can switch the behaviour of these keys in macOS, go to System Preferences ->
 ### General
 | Command | Action | Notes | Tested
 | -- | -- | -- | -- |
-| CTRL + CMD + Space | Open Emojis |
 | CMD + A | Select all | | Yes |
 | CMD + S | Save | | Yes |
 | CMD + Shift + S | Save as |
@@ -28,6 +27,7 @@ You can switch the behaviour of these keys in macOS, go to System Preferences ->
 | CTRL + Tab | Cycle through tabs | Holding shift cycles backwards. | Yes |
 | CMD + Left Arrow | Move to start of line | Holding shift will select until start of line. | Yes |
 | CMD + Right Arrow | Move to end of line | Holding shift will select until end of line. | Yes |
+| CTRL + CMD + Space | Open emoji keyboard | | Yes |
 
 ### Chrome
 | Command | Action | Notes | Tested |
