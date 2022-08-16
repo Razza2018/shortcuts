@@ -1,5 +1,11 @@
 # Shortcuts
 
+## macOs
+
+These commands assume the function keys are being used. If you have the media keys being used by default you will need to also hold the Fn key when pressing any of the function keys e.g. F1, F2, F3, ect.
+
+You can switch the behaviour of these keys in macOS, go to System Preferences -> Keyboard -> Use F1, F2, ect. keys as standard function keys.
+
 ### General
 | Command | Action | Notes | Tested
 | -- | -- | -- | -- |
@@ -12,7 +18,7 @@
 | CMD + C | Copy selection | | Yes |
 | CMD + V | Paste previously cut or copied selection | | Yes |
 | CMD + Shift + V | Paste in place | Usually only used in graphical or modelling programmes. |
-| CMD + Option + V | Paste matching style | Matches the styling of the place you are pasting to. This is useful for pasting into a word processor or spreadsheet programme. |
+| CMD + Option + V | Paste matching style | Matches the styling of the place you are pasting to. This is useful for pasting into a word processor or spreadsheet programme. | Yes |
 | CTRL + Shift + Eject | Lock screen | | Yes |
 | CMD + Option + D | Show / Hide dock | | Yes |
 | CMD + W | Close current tab or window | | Yes |
@@ -48,12 +54,12 @@
 | CMD + Shift + J | Open popup console |
 | CMD + Shift + Y | Open downloads |
 
-### Code Editors
+### Sublime 3
 | Command | Action | Notes | Tested |
 | -- | -- | -- | -- |
-| CMD + D | Select next matching selection |
-| CMD + K CMD + D | Ignore last matched selection and select next matching selection |
-| CMD + U | Undo last matching selection |
+| CMD + D | Select next matching selection | Without selection it will select the word the cursor is near. | Yes |
+| CMD + K CMD + D | Ignore last matched selection and select next matching selection | Without selection it will select the next instance of the word the cursor is near. | Yes |
+| CMD + U | Undo last matching selection | Will actually revert the cursor and selection to the last position and selection | Yes |
 | CMD + Shift + D | Duplicate line or selection |
 | CTRL + Left Arrow | Moves cursor a word to the left | Holding shift selects until word on the left. |
 | CTRL + Right Arrow | Moves cursor a word to the left | Holding shift selects until word on the right. |
