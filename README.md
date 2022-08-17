@@ -68,7 +68,37 @@ You can switch the behaviour of these keys in macOS, go to System Preferences ->
 | CTRL + Right Arrow | Moves cursor a word to the left | Holding shift selects until word on the right. |
 
 ### Atom
+| Command | Action | Notes | Tested |
+| -- | -- | -- | -- |
+| CTRL + D | Select next matching selection | Without selection it will select the word the cursor is near. |
+| CTRL + K CMD + D | Ignore last matched selection and select next matching selection | Without selection it will select the next instance of the word the cursor is near. |
+| CTRL + U | Undo last matching selection | Will actually revert the cursor and selection to the last position and selection |
+| CTRL + Shift + D | Duplicate line or selection |
 
 ### VS Code
 
 ## Windows
+
+These commands assume the function keys are being used. If you have the media keys being used by default you will need to also hold the Fn key when pressing any of the function keys e.g. F1, F2, F3, ect.
+
+You can switch the behaviour of these keys in the BIOS, use google for help on how to do that.
+
+### General
+| Command | Action | Notes | Tested |
+| -- | -- | -- | -- |
+| CTRL + A | Select all | | Yes |
+| CTRL + S | Save | | Yes |
+| CTRL + Shift + S | Save as |
+| CTRL + Z | Undo | | Yes |
+| CTRL + Y | Redo | In some applications this command would be CTRL + Shift + Z | Yes |
+| CTRL + X | Cut selection | | Yes |
+| CTRL + C | Copy selection | | Yes |
+| CTRL + V | Paste previously cut or copied selection | | Yes |
+| CTRL + Shift + V | Paste in place | Usually only used in graphical or modelling programmes. |
+| CTRL + Alt + V | Paste matching style | Matches the styling of the place you are pasting to. This is useful for pasting into a word processor or spreadsheet programme. |
+| Windows + L | Lock screen | | Yes |
+| CTRL + W | Close current tab or window |
+| Alt + F4 | Quit application | Some applications can be closed with CTRL + Q | Yes |
+| CTRL + Tab | Cycle through applications | Holding shift cycles backwards. | Yes |
+| CTRL + ~ | Cycle through tabs | Holding shift cycles backwards. |
+| Windows + , | Open emoji keyboard |
