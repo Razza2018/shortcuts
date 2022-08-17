@@ -40,6 +40,8 @@ You can switch the behaviour of these keys in macOS, go to System Preferences ->
 | CMD + D | Bookmark current page | | Yes |
 | CMD + Shift + N | Open incognito mode | Incognito mode doesn't save session history or passwords making it useful when needing to debug a login problem or when signing into your accounts on someone else's computer. | Yes |
 | CMD + Shift + J | Open downloads | | Yes |
+| CMD + T | Open new tab | | Yes |
+| CMD + Shift + T | Reopen closed tab | | Yes |
 
 ### Firefox
 | Command | Action | Notes | Tested |
