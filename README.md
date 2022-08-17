@@ -27,7 +27,7 @@ You can switch the behaviour of these keys in macOS, go to System Preferences ->
 | CTRL + Tab | Cycle through tabs | Holding shift cycles backwards. | Yes |
 | CMD + Left Arrow | Move to start of line | Holding shift will select until start of line. | Yes |
 | CMD + Right Arrow | Move to end of line | Holding shift will select until end of line. | Yes |
-| CTRL + CMD + Space | Open emoji keyboard | | Yes |
+| CTRL + CMD + Space | Open emoji keyboard | THIS WILL CHANGE YOUR LIFE🕺 | Yes |
 
 ### Chrome
 | Command | Action | Notes | Tested |
