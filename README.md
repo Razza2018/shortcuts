@@ -27,6 +27,9 @@ You can switch the behaviour of these keys in macOS, go to System Preferences ->
 | CTRL + Tab | Cycle through tabs | Holding shift cycles backwards. | Yes |
 | CMD + Left Arrow | Move to start of line | Holding shift will select until start of line. | Yes |
 | CMD + Right Arrow | Move to end of line | Holding shift will select until end of line. | Yes |
+| Option + CMD + J | Open the console | | Yes |
+| CTRL + A | Move to start of line | Can be used in the terminal | Yes |
+|CTRL + E | Move to end of line | Can also be used in the terminal | Yes |
 | CTRL + CMD + Space | Open emoji keyboard | THIS WILL CHANGE YOUR LIFE🕺 | Yes |
 
 ### Chrome
@@ -76,6 +79,13 @@ You can switch the behaviour of these keys in macOS, go to System Preferences ->
 | CTRL + Shift + D | Duplicate line or selection |
 
 ### VS Code
+
+### Terminal
+| Command | Action | Notes | Tested |
+| -- | -- | -- | -- |
+| CTRL + U | Delete command without executing | | Yes |
+| CTRIL + A | Move to start of line | | Yes |
+| CTRL + E | Move to end of line | | Yes |
 
 ## Windows
 
