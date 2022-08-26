@@ -32,6 +32,12 @@ You can switch the behaviour of these keys in macOS, go to System Preferences ->
 |CTRL + E | Move to end of line | Can also be used in the terminal | Yes |
 | CTRL + CMD + Space | Open emoji keyboard | THIS WILL CHANGE YOUR LIFE🕺 | Yes |
 
+### Handy Tips and Tricks
+| Command(s) | Action | Notes | Tested |
+| -- | -- | -- | -- |
+| CMD + L ,<br />CMD + Enter | Duplicates existing tab | Requires a quick two staged action. Works in most browsers |
+| CMD + L ,<br />CMD + Shift + Enter | Duplicates existing tab and changes browser focus to new tab | Requires a quick two staged action. Works in most browsers |
+
 ### Chrome
 | Command | Action | Notes | Tested |
 | -- | -- | -- | -- |
