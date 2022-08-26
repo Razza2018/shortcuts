@@ -1,6 +1,6 @@
 # Shortcuts
 
-## macOs
+## macOS
 
 These commands assume the function keys are being used. If you have the media keys being used by default you will need to also hold the Fn key when pressing any of the function keys e.g. F1, F2, F3, ect.
 
