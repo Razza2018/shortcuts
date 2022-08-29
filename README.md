@@ -66,6 +66,19 @@ You can switch the behaviour of these keys in macOS, go to System Preferences ->
 | CMD + Shift + J | Open popup console |
 | CMD + Shift + Y | Open downloads |
 
+### Safari
+| Command | Action | Notes | Tested |
+| -- | -- | -- | -- |
+| CMD + R | Refresh page | | Yes |
+| CMD + Shift + N | Open incognito mode | Incognito mode doesn't save session history or passwords making it useful when needing to debug a login problem or when signing into your accounts on someone else's computer. | Yes |
+| CMD + T | Open new tab | | Yes |
+| CMD + N | Open new window | | Yes |
+| CMD + O | Open file | | |
+| CMD + L | Change cursor focus to address bar | | |
+| CMD + W | Close current tab or window | | |
+| CMD + Shift + W | Close current window | | |
+| CMD + Option + I | Open / close console in dev tools |
+
 ### Sublime 3
 | Command | Action | Notes | Tested |
 | -- | -- | -- | -- |
