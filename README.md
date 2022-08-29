@@ -130,4 +130,4 @@ You can switch the behaviour of these keys in the BIOS, use google for help on h
 | Alt + F4 | Quit application | Some applications can be closed with CTRL + Q | Yes |
 | CTRL + Tab | Cycle through applications | Holding shift cycles backwards. | Yes |
 | CTRL + ~ | Cycle through tabs | Holding shift cycles backwards. |
-| Windows + , | Open emoji keyboard |
+| Windows + . | Open emoji keyboard | | Yes |
