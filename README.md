@@ -1,6 +1,6 @@
 # Shortcuts
 
-## macOs
+## macOS
 
 These commands assume the function keys are being used. If you have the media keys being used by default you will need to also hold the Fn key when pressing any of the function keys e.g. F1, F2, F3, ect.
 
@@ -32,6 +32,12 @@ You can switch the behaviour of these keys in macOS, go to System Preferences ->
 |CTRL + E | Move to end of line | Can also be used in the terminal | Yes |
 | CTRL + CMD + Space | Open emoji keyboard | THIS WILL CHANGE YOUR LIFE🕺 | Yes |
 
+### Handy Tips and Tricks
+| Command(s) | Action | Notes | Tested |
+| -- | -- | -- | -- |
+| CMD + L ,<br />CMD + Enter | Duplicates existing tab | Requires a quick two staged action. Works in most browsers |
+| CMD + L ,<br />CMD + Shift + Enter | Duplicates existing tab and changes browser focus to new tab | Requires a quick two staged action. Works in most browsers |
+
 ### Chrome
 | Command | Action | Notes | Tested |
 | -- | -- | -- | -- |
@@ -59,6 +65,19 @@ You can switch the behaviour of these keys in macOS, go to System Preferences ->
 | CMD + Shift + P | Open incognito mode | Incognito mode doesn't save session history or passwords making it useful when needing to debug a login problem or when signing into your accounts on someone else's computer. |
 | CMD + Shift + J | Open popup console |
 | CMD + Shift + Y | Open downloads |
+
+### Safari
+| Command | Action | Notes | Tested |
+| -- | -- | -- | -- |
+| CMD + R | Refresh page | | Yes |
+| CMD + Shift + N | Open incognito mode | Incognito mode doesn't save session history or passwords making it useful when needing to debug a login problem or when signing into your accounts on someone else's computer. | Yes |
+| CMD + T | Open new tab | | Yes |
+| CMD + N | Open new window | | Yes |
+| CMD + O | Open file | | |
+| CMD + L | Change cursor focus to address bar | | |
+| CMD + W | Close current tab or window | | |
+| CMD + Shift + W | Close current window | | |
+| CMD + Option + I | Open / close console in dev tools |
 
 ### Sublime 3
 | Command | Action | Notes | Tested |
@@ -111,7 +130,7 @@ You can switch the behaviour of these keys in the BIOS, use google for help on h
 | Alt + F4 | Quit application | Some applications can be closed with CTRL + Q | Yes |
 | CTRL + Tab | Cycle through applications | Holding shift cycles backwards. | Yes |
 | CTRL + ~ | Cycle through tabs | Holding shift cycles backwards. |
-| Windows + , | Open emoji keyboard |
+| Windows + . | Open emoji keyboard | | Yes |
 
 ## Authors
 - [Rohan Hope](https://github.com/Razza2018)</li>
