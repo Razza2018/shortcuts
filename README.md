@@ -131,3 +131,8 @@ You can switch the behaviour of these keys in the BIOS, use google for help on h
 | CTRL + Tab | Cycle through applications | Holding shift cycles backwards. | Yes |
 | CTRL + ~ | Cycle through tabs | Holding shift cycles backwards. |
 | Windows + . | Open emoji keyboard | | Yes |
+
+## Authors
+- [Rohan Hope](https://github.com/Razza2018)</li>
+- [Zali Baker](https://github.com/k8-zali)</li>
+- [Travis Knight](https://linktr.ee/thetravisknight)</li>
