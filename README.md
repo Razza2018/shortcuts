@@ -88,6 +88,8 @@ You can switch the behaviour of these keys in macOS, go to System Preferences ->
 | CMD + Shift + D | Duplicate line or selection |
 | CTRL + Left Arrow | Moves cursor a word to the left | Holding shift selects until word on the left. |
 | CTRL + Right Arrow | Moves cursor a word to the left | Holding shift selects until word on the right. |
+| CTRL + A | Moves cursor the start of the line, ignoring wrapped text |  | Yes |
+| CTRL + E | Moves cursor the end of the line, ignoring wrapped text |  | Yes |
 
 ### Atom
 | Command | Action | Notes | Tested |
