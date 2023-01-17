@@ -13,7 +13,8 @@ You can switch the behaviour of these keys in macOS, go to System Preferences ->
 | CMD + S | Save | | Yes |
 | CMD + Shift + S | Save as |
 | CMD + Z | Undo | | Yes |
-| CMD + Shift + Z | Redo | In some applications built for Windows this command would be CMD + Y | Yes |
+| CMD + Shift + Z | Redo | In some app
+cations built for Windows this command would be CMD + Y | Yes |
 | CMD + X | Cut selection | Doesn't work in Finder (the file manager) macOS doesn't allow this. | Yes |
 | CMD + C | Copy selection | | Yes |
 | CMD + V | Paste previously cut or copied selection | | Yes |
@@ -135,6 +136,6 @@ You can switch the behaviour of these keys in the BIOS, use google for help on h
 | Windows + . | Open emoji keyboard | | Yes |
 
 ## Authors
-- [Rohan Hope](https://github.com/Razza2018)</li>
-- [Zali Baker](https://github.com/k8-zali)</li>
-- [Travis Knight](https://linktr.ee/thetravisknight)</li>
+- [Rohan Hope](https://github.com/Razza2018)
+- [Zali Baker](https://github.com/k8-zali)
+- [Travis Knight](https://linktr.ee/thetravisknight)
